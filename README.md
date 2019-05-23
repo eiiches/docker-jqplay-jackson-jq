@@ -30,4 +30,4 @@ Usage
 License
 -------
 
-This Dockerfile is released under the MIT license. See [LISENSE](LICENSE.md).
+This Dockerfile is released under the MIT license. See [LICENSE](LICENSE.md).
