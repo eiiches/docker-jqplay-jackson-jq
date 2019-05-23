@@ -1,7 +1,7 @@
 docker-jqplay-jackson-jq
 ========================
 
-Dockerfile for [jqplay](https://github.com/jingweno/jqplay) with jq replaced with jackson-jq.
+Dockerfile for [jqplay](https://github.com/jingweno/jqplay) with jq replaced by jackson-jq
 
 Usage
 -----
@@ -30,4 +30,4 @@ Usage
 License
 -------
 
-This Dockerfile is released under the MIT license. See [LISENSE.md](LICENSE.md)
+This Dockerfile is released under the MIT license. See [LISENSE](LICENSE.md).
